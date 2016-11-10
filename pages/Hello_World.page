@@ -1,0 +1,9 @@
+<apex:page controller="Hello_World_Controller">
+	<html>
+<body>
+	Hello world!
+	<br />
+	<apex:outputText value="{!dateTimeValue}" />
+</body>
+	</html>
+</apex:page>
